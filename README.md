@@ -3,7 +3,9 @@
 
 ## Установка
 
-`npm i distrconfig-client`
+```sh
+npm i distrconfig-client
+```
 
 ## Использование модуля в проекте
 
